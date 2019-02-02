@@ -9,9 +9,9 @@ To demonstrate building an end-to-end **serverless data pipeline** and a full-st
 
 What makes people happy in their day-to-day activities and each country’s GDP.
 
-Solution Architecture:
+### Solution Architecture
 
-Input:
+#### Input
 
 -   Happiness comments & demographics from Kaggle (CSV in S3)
     
@@ -20,7 +20,7 @@ Input:
 -   Country ISO codes from Kaggle (Tabular data in Postgres)
     
 
-Processing:
+#### Processing
 
 -   Crawl all data & generate Data Catalog
     
@@ -35,7 +35,7 @@ Processing:
 -   Build a single-page web application hosted on S3 to visualize the Happiness Report
     
 
-Output:
+#### Output
 
 -   World Happiness Report - Charts
 
@@ -174,5 +174,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzODcxMjUzNywtMTc0MzQ2NDQ2OV19
+eyJoaXN0b3J5IjpbNzgwOTk4Mzc4LC0xNzQzNDY0NDY5XX0=
 -->
