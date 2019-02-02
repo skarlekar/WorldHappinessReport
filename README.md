@@ -1,6 +1,6 @@
-# Welcome to StackEdit!
+# World Happiness Report
 
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
+To demonstrate building an end-to-end **serverless data pipeline** and a full-stack application using AWS S3, Glue, Athena, Lambda and/or Fargate.
 
 
 # Files
@@ -142,5 +142,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDM0NjQ0NjldfQ==
+eyJoaXN0b3J5IjpbLTI4NDY1MzAxMCwtMTc0MzQ2NDQ2OV19
 -->
