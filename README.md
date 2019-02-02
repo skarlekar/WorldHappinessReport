@@ -3,9 +3,10 @@
 To demonstrate building an end-to-end **serverless data pipeline** and a full-stack application using *AWS S3, Glue, Athena, Lambda* and/or *Fargate*.
 
 
-## What Makes People Happy vs Country GDPs
+# What Makes People Happy vs Country GDPs
 
-Problem Statement 
+## Problem Statement
+
 What makes people happy in their day-to-day activities and each country’s GDP.
 
 Solution Architecture:
@@ -173,5 +174,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQwNTI3Mjk0LC0xNzQzNDY0NDY5XX0=
+eyJoaXN0b3J5IjpbMTEzODcxMjUzNywtMTc0MzQ2NDQ2OV19
 -->
