@@ -41,6 +41,11 @@ What makes people happy in their day-to-day activities and each country’s GDP.
 
 ## Architecture
 
+## AWS Glue
+## AWS Athena
+## AWS Lambda
+## Project Setup Instructions
+
 
 
 The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
@@ -176,6 +181,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjEzMjM0NzAsLTE3NDM0NjQ0NjldfQ
-==
+eyJoaXN0b3J5IjpbMTEzMTYzOTEyNywtMTc0MzQ2NDQ2OV19
 -->
