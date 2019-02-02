@@ -39,7 +39,9 @@ What makes people happy in their day-to-day activities and each country’s GDP.
 
 -   World Happiness Report - Charts
 
-## Create files and folders
+## Architecture
+
+
 
 The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
 
@@ -174,5 +176,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgwOTk4Mzc4LC0xNzQzNDY0NDY5XX0=
+eyJoaXN0b3J5IjpbLTExNjEzMjM0NzAsLTE3NDM0NjQ0NjldfQ
+==
 -->
