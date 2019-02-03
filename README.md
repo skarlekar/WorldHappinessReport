@@ -7,7 +7,7 @@ To demonstrate building an end-to-end **serverless data pipeline** and a full-st
 
 ## Problem Statement
 
-What makes people happy in their day-to-day activities and each country’s GDP.
+What makes people happy in their day-to-day activities and how does it relate to  country’s GDP
 
 ## Solution Architecture
 ![World Happiness Report - Solution Architecture](https://github.com/skarlekar/WorldHappinessReport/blob/master/images/Glue_POC_Solution_Arch.png)
@@ -49,6 +49,6 @@ What makes people happy in their day-to-day activities and each country’s GDP.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MTE5NjM3MSwxNjA0NTEzNDA3LDg5ND
-gyMTQ4MCwtMTc0MzQ2NDQ2OV19
+eyJoaXN0b3J5IjpbLTEwMjIyMTIxNTIsMTYwNDUxMzQwNyw4OT
+Q4MjE0ODAsLTE3NDM0NjQ0NjldfQ==
 -->
