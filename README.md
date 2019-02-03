@@ -30,7 +30,8 @@ A front-end web application hosted in S3 was used to visualize the data as chart
 
 -   Happiness comments & demographics from Kaggle (CSV in S3).  
 	Happy DB is a corpus of more than 100,000 happy moments crowd-sourced from various people across the world.  The data consists of comments and demographics.
-    https://www.kaggle.com/ritresearch/happydb
+    https://www.kaggle.com/ritresearch/happydb  
+      
 -   GDP from Happy Planet Index (JSON in S3).  
     Happy Planet Index is an organization that measures how well nations are doing at achieving, long, happy and sustainable lives. Apart from HPI index, this data contains the GDP of different nations around the world.
     http://happyplanetindex.org/s/hpi-data-2016.xlsx
@@ -72,7 +73,8 @@ A front-end web application hosted in S3 was used to visualize the data as chart
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY5ODk0MzM1LDIwMDE5OTkxOTEsLTE3Nj
-EzNjg0MDIsLTE2OTI3MzY0MzgsNTU4OTA1NTEwLDkwMjc5NzY5
-NiwxNjA0NTEzNDA3LDg5NDgyMTQ4MCwtMTc0MzQ2NDQ2OV19
+eyJoaXN0b3J5IjpbLTU2NTk3NDU0NywyMDAxOTk5MTkxLC0xNz
+YxMzY4NDAyLC0xNjkyNzM2NDM4LDU1ODkwNTUxMCw5MDI3OTc2
+OTYsMTYwNDUxMzQwNyw4OTQ4MjE0ODAsLTE3NDM0NjQ0NjldfQ
+==
 -->
