@@ -18,7 +18,9 @@ The other data in CSV and JSON format was loaded into a AWS S3 bucket.
 
 With this data as input, we built an ETL  job (ETL - Extract, Transform & Load) using AWS Glue  to transform the data into a denormalized CSV format which was pushed out to another S3 bucket.
 
-With the final data in S3, we built an Athena query to query this data in SQL format. With the Athena query in place, we wrote a micro service using AWS Lambda function that calls the Athena query and vends the data out in JSON format.
+With the final data in S3, we built an Athena query to query this data in SQL format. 
+
+With the Athena query in place, we wrote a micro service using AWS Lambda function that calls the Athena query and vends the data out in JSON format.
 
 The micro service was exposed via an API through AWS API Gateway.
 
@@ -67,6 +69,7 @@ A front-end web application hosted in S3 was used to visualize the data as chart
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU4OTA1NTEwLDkwMjc5NzY5NiwxNjA0NT
-EzNDA3LDg5NDgyMTQ4MCwtMTc0MzQ2NDQ2OV19
+eyJoaXN0b3J5IjpbLTE2OTI3MzY0MzgsNTU4OTA1NTEwLDkwMj
+c5NzY5NiwxNjA0NTEzNDA3LDg5NDgyMTQ4MCwtMTc0MzQ2NDQ2
+OV19
 -->
