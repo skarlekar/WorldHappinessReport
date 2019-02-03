@@ -56,7 +56,7 @@ A front-end web application hosted in S3 was used to visualize the data as chart
 
 ### Output
 
--   World Happiness Report - Charts
+-   World Happiness Report - Charts.  
 	The generated report plots various happiness categories as a stacked bar chart and overlays the corresponding nation's GDP on top of it. It further allows, isolating a happiness dimension by double-clicking on it as the following animation shows.
 	
 ![World Happiness Report Output](https://github.com/skarlekar/WorldHappinessReport/blob/master/images/WorldHappinessReport_Animated.gif)
@@ -72,8 +72,7 @@ A front-end web application hosted in S3 was used to visualize the data as chart
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMTk4MDAzOSwyMDAxOTk5MTkxLC0xNz
-YxMzY4NDAyLC0xNjkyNzM2NDM4LDU1ODkwNTUxMCw5MDI3OTc2
-OTYsMTYwNDUxMzQwNyw4OTQ4MjE0ODAsLTE3NDM0NjQ0NjldfQ
-==
+eyJoaXN0b3J5IjpbNzY5ODk0MzM1LDIwMDE5OTkxOTEsLTE3Nj
+EzNjg0MDIsLTE2OTI3MzY0MzgsNTU4OTA1NTEwLDkwMjc5NzY5
+NiwxNjA0NTEzNDA3LDg5NDgyMTQ4MCwtMTc0MzQ2NDQ2OV19
 -->
