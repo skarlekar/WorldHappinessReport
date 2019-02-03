@@ -58,7 +58,7 @@ A front-end web application hosted in S3 was used to visualize the data as chart
 
 -   World Happiness Report - Charts
 
-
+![World Happiness Report Output](https://github.com/skarlekar/WorldHappinessReport/blob/master/images/WorldHappinessReport_Animated.gif)
 
 ## Solution Architecture
 ![World Happiness Report - Solution Architecture](https://github.com/skarlekar/WorldHappinessReport/blob/master/images/Glue_POC_Solution_Arch.png)
@@ -71,7 +71,7 @@ A front-end web application hosted in S3 was used to visualize the data as chart
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTQwOTAwNzQsLTE2OTI3MzY0MzgsNT
+eyJoaXN0b3J5IjpbLTE3NjEzNjg0MDIsLTE2OTI3MzY0MzgsNT
 U4OTA1NTEwLDkwMjc5NzY5NiwxNjA0NTEzNDA3LDg5NDgyMTQ4
 MCwtMTc0MzQ2NDQ2OV19
 -->
