@@ -28,14 +28,14 @@ A front-end web application hosted in S3 was used to visualize the data as chart
 
 ### Input
 
--   Happiness comments & demographics from Kaggle (CSV in S3)
+-   Happiness comments & demographics from Kaggle (CSV in S3).
 	Happy DB is a corpus of more than 100,000 happy moments crowd-sourced from various people across the world.  The data consists of comments and demographics.
     https://www.kaggle.com/ritresearch/happydb
--   GDP from Happy Planet Index (JSON in S3)
+-   GDP from Happy Planet Index (JSON in S3).
     Happy Planet Index is an organization that measures how well nations are doing at achieving, long, happy and sustainable lives. Apart from HPI index, this data contains the GDP of different nations around the world.
     http://happyplanetindex.org/s/hpi-data-2016.xlsx
     (the above spreadsheet was converted to JSON format to demonstrate AWS Glue's ability to use JSON as input)
--   Country ISO codes from Kaggle (Tabular data in Postgres)
+-   Country ISO codes from Kaggle (tabular data in Postgres).
 	The country names in Happy DB were three character ISO code, whereas the country names in Happy Planet Index that contained nations' GDP were in English names. To combine these two data sets, we downloaded the Country ISO code Kaggle set.
     
 
@@ -72,7 +72,8 @@ A front-end web application hosted in S3 was used to visualize the data as chart
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMTk5OTE5MSwtMTc2MTM2ODQwMiwtMT
-Y5MjczNjQzOCw1NTg5MDU1MTAsOTAyNzk3Njk2LDE2MDQ1MTM0
-MDcsODk0ODIxNDgwLC0xNzQzNDY0NDY5XX0=
+eyJoaXN0b3J5IjpbMTA2OTM0NTQ3OSwyMDAxOTk5MTkxLC0xNz
+YxMzY4NDAyLC0xNjkyNzM2NDM4LDU1ODkwNTUxMCw5MDI3OTc2
+OTYsMTYwNDUxMzQwNyw4OTQ4MjE0ODAsLTE3NDM0NjQ0NjldfQ
+==
 -->
