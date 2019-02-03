@@ -16,9 +16,11 @@ The static data in CSV format was loaded into a RDBMS table (PostgreSQL DB on AW
 
 The other data in CSV and JSON format was loaded into a AWS S3 bucket.
 
-With this data as input, we built an ETL  job (ETL - Extract, Transform & Load) using AWS Glue and PySpark to transform the data into a denormalized CSV format.
+With this data as input, we built an ETL  job (ETL - Extract, Transform & Load) using AWS Glue  to transform the data into a denormalized CSV format which was pushed out to another S3 bucket.
 
+With the final data in S3, we built an Athena query to query the data in S3 in SQL format.
 
+To 
 
 ### Input
 
@@ -59,6 +61,6 @@ With this data as input, we built an ETL  job (ETL - Extract, Transform & Load) 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTUyMjc3MTcsMTYwNDUxMzQwNyw4OT
+eyJoaXN0b3J5IjpbLTEwMzQxNzg4MTUsMTYwNDUxMzQwNyw4OT
 Q4MjE0ODAsLTE3NDM0NjQ0NjldfQ==
 -->
