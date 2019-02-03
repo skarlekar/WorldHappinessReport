@@ -10,7 +10,9 @@ To demonstrate building an end-to-end **serverless data pipeline** and a full-st
 What makes people happy in their day-to-day activities and how does it relate to  country’s GDP?
 
 ## Solution
-To answer the aforementioned problem, we collected data from multiple sources. The data was in dif and built an ETL  job (ETL - Extract, Transform & Load) using AWS Glue and PySpark to transform the data into a CSV
+To answer the aforementioned problem, we collected data from multiple sources. The data was in different formats such as CSV and JSON. Some of this data was static in nature such as country codes and some other will change over time such as countries GDP.
+
+With this data as input, we built an ETL  job (ETL - Extract, Transform & Load) using AWS Glue and PySpark to transform the data into a denormali
 
 ### Input
 
@@ -51,6 +53,6 @@ To answer the aforementioned problem, we collected data from multiple sources. T
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTg4NjM0NzUsMTYwNDUxMzQwNyw4OT
-Q4MjE0ODAsLTE3NDM0NjQ0NjldfQ==
+eyJoaXN0b3J5IjpbLTg3NDY1NTEzMiwxNjA0NTEzNDA3LDg5ND
+gyMTQ4MCwtMTc0MzQ2NDQ2OV19
 -->
