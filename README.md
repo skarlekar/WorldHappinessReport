@@ -41,9 +41,10 @@ A front-end web application hosted in S3 was used to visualize the data as chart
     
 
 ### Processing
-
+-   Load the data into S3 . 
+	
 -   Crawl all data & generate Data Catalog  
-- 
+	
     
 -   Build ETL job (PySpark) to load Country ISO code into Postgres managed RDS
     
@@ -74,8 +75,8 @@ A front-end web application hosted in S3 was used to visualize the data as chart
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczODgyMDAwMSwtMTk1OTkxODE5OSwyMD
-AxOTk5MTkxLC0xNzYxMzY4NDAyLC0xNjkyNzM2NDM4LDU1ODkw
-NTUxMCw5MDI3OTc2OTYsMTYwNDUxMzQwNyw4OTQ4MjE0ODAsLT
-E3NDM0NjQ0NjldfQ==
+eyJoaXN0b3J5IjpbNDk2NzU2MDMwLC0xOTU5OTE4MTk5LDIwMD
+E5OTkxOTEsLTE3NjEzNjg0MDIsLTE2OTI3MzY0MzgsNTU4OTA1
+NTEwLDkwMjc5NzY5NiwxNjA0NTEzNDA3LDg5NDgyMTQ4MCwtMT
+c0MzQ2NDQ2OV19
 -->
