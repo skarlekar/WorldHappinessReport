@@ -27,7 +27,8 @@ A front-end web application hosted in S3 was used to visualize the data as chart
 ### Input
 
 -   Happiness comments & demographics from Kaggle (CSV in S3)
-    
+	
+    https://www.kaggle.com/ritresearch/happydb
 -   GDP from Happy Planet Index (JSON in S3)
     
 -   Country ISO codes from Kaggle (Tabular data in Postgres)
@@ -63,6 +64,6 @@ A front-end web application hosted in S3 was used to visualize the data as chart
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjYzODg3MDQsMTYwNDUxMzQwNyw4OT
-Q4MjE0ODAsLTE3NDM0NjQ0NjldfQ==
+eyJoaXN0b3J5IjpbLTU0OTcwNzU3NCwxNjA0NTEzNDA3LDg5ND
+gyMTQ4MCwtMTc0MzQ2NDQ2OV19
 -->
