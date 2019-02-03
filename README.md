@@ -42,7 +42,8 @@ A front-end web application hosted in S3 was used to visualize the data as chart
 
 ### Processing
 
--   Crawl all data & generate Data Catalog
+-   Crawl all data & generate Data Catalog  
+- 
     
 -   Build ETL job (PySpark) to load Country ISO code into Postgres managed RDS
     
@@ -58,7 +59,7 @@ A front-end web application hosted in S3 was used to visualize the data as chart
 ### Output
 
 -   World Happiness Report - Charts  
-	The generated report plots various happiness categories as a stacked bar chart and overlays the corresponding nation's GDP on top of it. It further allows, isolating a happiness dimension by double-clicking on it as the following animation shows.
+	The generated report plots various happiness categories as a stacked bar chart and overlays the corresponding nation's GDP on top of it. It further allows, isolating a happiness category by double-clicking on it in the legend as the following animation shows.
 	
 ![World Happiness Report Output](https://github.com/skarlekar/WorldHappinessReport/blob/master/images/WorldHappinessReport_Animated.gif)
 
@@ -73,8 +74,8 @@ A front-end web application hosted in S3 was used to visualize the data as chart
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTk5MTgxOTksMjAwMTk5OTE5MSwtMT
-c2MTM2ODQwMiwtMTY5MjczNjQzOCw1NTg5MDU1MTAsOTAyNzk3
-Njk2LDE2MDQ1MTM0MDcsODk0ODIxNDgwLC0xNzQzNDY0NDY5XX
-0=
+eyJoaXN0b3J5IjpbLTczODgyMDAwMSwtMTk1OTkxODE5OSwyMD
+AxOTk5MTkxLC0xNzYxMzY4NDAyLC0xNjkyNzM2NDM4LDU1ODkw
+NTUxMCw5MDI3OTc2OTYsMTYwNDUxMzQwNyw4OTQ4MjE0ODAsLT
+E3NDM0NjQ0NjldfQ==
 -->
