@@ -41,7 +41,8 @@ A front-end web application hosted in S3 was used to visualize the data as chart
     
 
 ### Processing
--   Load the data into S3 . 
+
+-   Load the data into S3  
 	
 -   Crawl all data & generate Data Catalog  
 	
@@ -75,7 +76,7 @@ A front-end web application hosted in S3 was used to visualize the data as chart
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk2NzU2MDMwLC0xOTU5OTE4MTk5LDIwMD
+eyJoaXN0b3J5IjpbMzE2Mjg1MjIwLC0xOTU5OTE4MTk5LDIwMD
 E5OTkxOTEsLTE3NjEzNjg0MDIsLTE2OTI3MzY0MzgsNTU4OTA1
 NTEwLDkwMjc5NzY5NiwxNjA0NTEzNDA3LDg5NDgyMTQ4MCwtMT
 c0MzQ2NDQ2OV19
