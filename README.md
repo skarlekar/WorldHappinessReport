@@ -22,7 +22,7 @@ With the final data in S3, we built an Athena query to query this data in SQL fo
 
 The micro service was exposed via an API through AWS API Gateway.
 
-A front-end Javascript program hosted in S3
+A front-end web application hosted in S3 was used to visualize the data as charts.
 
 ### Input
 
@@ -63,6 +63,6 @@ A front-end Javascript program hosted in S3
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNDY3NzgxNiwxNjA0NTEzNDA3LDg5ND
-gyMTQ4MCwtMTc0MzQ2NDQ2OV19
+eyJoaXN0b3J5IjpbLTE2NjYzODg3MDQsMTYwNDUxMzQwNyw4OT
+Q4MjE0ODAsLTE3NDM0NjQ0NjldfQ==
 -->
