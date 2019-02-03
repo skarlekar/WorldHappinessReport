@@ -34,7 +34,7 @@ A front-end web application hosted in S3 was used to visualize the data as chart
     http://happyplanetindex.org/s/hpi-data-2016.xlsx
     (the above spreadsheet was converted to JSON format to demonstrate AWS Glue's ability to use JSON as input)
 -   Country ISO codes from Kaggle (Tabular data in Postgres)
-	The country names in Happy DB were three character ISO code, whereas the country names in Happy Planet Index that contained nations' GDP were in 
+	The country names in Happy DB were three character ISO code, whereas the country names in Happy Planet Index that contained nations' GDP were in English names. To combine these two data sets, we downloaded the Country ISO code Kaggle set.
     
 
 ### Processing
@@ -67,6 +67,6 @@ A front-end web application hosted in S3 was used to visualize the data as chart
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4OTk0ODk5LDkwMjc5NzY5NiwxNjA0NT
+eyJoaXN0b3J5IjpbNTU4OTA1NTEwLDkwMjc5NzY5NiwxNjA0NT
 EzNDA3LDg5NDgyMTQ4MCwtMTc0MzQ2NDQ2OV19
 -->
