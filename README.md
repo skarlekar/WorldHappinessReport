@@ -18,7 +18,7 @@ The other data in CSV and JSON format was loaded into a AWS S3 bucket.
 
 With this data as input, we built an ETL  job (ETL - Extract, Transform & Load) using AWS Glue  to transform the data into a denormalized CSV format which was pushed out to another S3 bucket.
 
-With the final data in S3, we built an Athena query to query the data in S3 in SQL format.
+With the final data in S3, we built an Athena query to query this data in SQL format. With the Athena query in place, we wrote a Lambda function that queries the data on demand and e
 
 To 
 
@@ -61,6 +61,6 @@ To
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzQxNzg4MTUsMTYwNDUxMzQwNyw4OT
-Q4MjE0ODAsLTE3NDM0NjQ0NjldfQ==
+eyJoaXN0b3J5IjpbMTQxMDY4NTEwNCwxNjA0NTEzNDA3LDg5ND
+gyMTQ4MCwtMTc0MzQ2NDQ2OV19
 -->
