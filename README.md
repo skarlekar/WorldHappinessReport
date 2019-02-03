@@ -28,7 +28,7 @@ A front-end web application hosted in S3 was used to visualize the data as chart
 
 ### Input
 
--   Happiness comments & demographics from Kaggle (CSV in S3).
+-   Happiness comments & demographics from Kaggle (CSV in S3).  
 	Happy DB is a corpus of more than 100,000 happy moments crowd-sourced from various people across the world.  The data consists of comments and demographics.
     https://www.kaggle.com/ritresearch/happydb
 -   GDP from Happy Planet Index (JSON in S3).
@@ -72,8 +72,8 @@ A front-end web application hosted in S3 was used to visualize the data as chart
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2OTM0NTQ3OSwyMDAxOTk5MTkxLC0xNz
-YxMzY4NDAyLC0xNjkyNzM2NDM4LDU1ODkwNTUxMCw5MDI3OTc2
-OTYsMTYwNDUxMzQwNyw4OTQ4MjE0ODAsLTE3NDM0NjQ0NjldfQ
-==
+eyJoaXN0b3J5IjpbLTEyOTc3NTIzNzcsMjAwMTk5OTE5MSwtMT
+c2MTM2ODQwMiwtMTY5MjczNjQzOCw1NTg5MDU1MTAsOTAyNzk3
+Njk2LDE2MDQ1MTM0MDcsODk0ODIxNDgwLC0xNzQzNDY0NDY5XX
+0=
 -->
