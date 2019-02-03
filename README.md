@@ -10,11 +10,9 @@ To demonstrate building an end-to-end **serverless data pipeline** and a full-st
 What makes people happy in their day-to-day activities and how does it relate to  country’s GDP?
 
 ## Solution
-To answer the aforementioned problem, we collected data from multiple sources. 
+To answer the aforementioned problem, we collected data from multiple sources and built an Extract, Transform 
 
-## Solution Architecture
-![World Happiness Report - Solution Architecture](https://github.com/skarlekar/WorldHappinessReport/blob/master/images/Glue_POC_Solution_Arch.png)
-#### Input
+### Input
 
 -   Happiness comments & demographics from Kaggle (CSV in S3)
     
@@ -23,7 +21,7 @@ To answer the aforementioned problem, we collected data from multiple sources.
 -   Country ISO codes from Kaggle (Tabular data in Postgres)
     
 
-#### Processing
+### Processing
 
 -   Crawl all data & generate Data Catalog
     
@@ -38,11 +36,12 @@ To answer the aforementioned problem, we collected data from multiple sources.
 -   Build a single-page web application hosted on S3 to visualize the Happiness Report
     
 
-#### Output
+### Output
 
 -   World Happiness Report - Charts
 
-
+## Solution Architecture
+![World Happiness Report - Solution Architecture](https://github.com/skarlekar/WorldHappinessReport/blob/master/images/Glue_POC_Solution_Arch.png)
 ## AWS Glue
 ## AWS Athena
 ## AWS Lambda
@@ -52,6 +51,6 @@ To answer the aforementioned problem, we collected data from multiple sources.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU2NjQxMDIsMTYwNDUxMzQwNyw4OTQ4Mj
-E0ODAsLTE3NDM0NjQ0NjldfQ==
+eyJoaXN0b3J5IjpbMTk3NDY2Mzg0MCwxNjA0NTEzNDA3LDg5ND
+gyMTQ4MCwtMTc0MzQ2NDQ2OV19
 -->
