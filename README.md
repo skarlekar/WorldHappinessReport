@@ -32,8 +32,9 @@ A front-end web application hosted in S3 was used to visualize the data as chart
 -   GDP from Happy Planet Index (JSON in S3)
     Happy Planet Index is an organization that measures how well nations are doing at achieving, long, happy and sustainable lives.
     http://happyplanetindex.org/s/hpi-data-2016.xlsx
-    
+    (the above spreadsheet was converted to JSON format to demonstrate AWS Glue's ability to use JSON as input)
 -   Country ISO codes from Kaggle (Tabular data in Postgres)
+	The country names in 
     
 
 ### Processing
@@ -66,6 +67,6 @@ A front-end web application hosted in S3 was used to visualize the data as chart
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNDg4MDI0NSw5MDI3OTc2OTYsMTYwND
+eyJoaXN0b3J5IjpbMjEyNjU4MTQ3Miw5MDI3OTc2OTYsMTYwND
 UxMzQwNyw4OTQ4MjE0ODAsLTE3NDM0NjQ0NjldfQ==
 -->
