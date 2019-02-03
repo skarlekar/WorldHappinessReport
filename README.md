@@ -9,8 +9,8 @@ To demonstrate building an end-to-end **serverless data pipeline** and a full-st
 
 What makes people happy in their day-to-day activities and each country’s GDP.
 
-### Solution Architecture
-
+## Solution Architecture
+![World Happiness Report - Solution Architecture](https://github.com/skarlekar/WorldHappinessReport/blob/master/images/Glue_POC_Solution_Arch.png)
 #### Input
 
 -   Happiness comments & demographics from Kaggle (CSV in S3)
@@ -39,8 +39,7 @@ What makes people happy in their day-to-day activities and each country’s GDP.
 
 -   World Happiness Report - Charts
 
-## Architecture
-![World Happiness Report - Solution Architecture](https://github.com/skarlekar/WorldHappinessReport/blob/master/images/Glue_POC_Solution_Arch.png)
+
 ## AWS Glue
 ## AWS Athena
 ## AWS Lambda
@@ -50,6 +49,6 @@ What makes people happy in their day-to-day activities and each country’s GDP.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNDUxMzQwNyw4OTQ4MjE0ODAsLTE3ND
-M0NjQ0NjldfQ==
+eyJoaXN0b3J5IjpbLTQ5MTE5NjM3MSwxNjA0NTEzNDA3LDg5ND
+gyMTQ4MCwtMTc0MzQ2NDQ2OV19
 -->
