@@ -12,7 +12,11 @@ What makes people happy in their day-to-day activities and how does it relate to
 ## Solution
 To answer the aforementioned problem, we collected data from multiple sources. The data was in different formats such as CSV and JSON. Some of this data was static in nature such as country codes and some other will change over time such as countries GDP.
 
-With this data as input, we built an ETL  job (ETL - Extract, Transform & Load) using AWS Glue and PySpark to transform the data into a denormali
+The static data was loaded into a RDBMS table (PostgreSQL DB on AWS) using AWS Glue 
+
+With this data as input, we built an ETL  job (ETL - Extract, Transform & Load) using AWS Glue and PySpark to transform the data into a denormalized CSV format.
+
+
 
 ### Input
 
@@ -53,6 +57,6 @@ With this data as input, we built an ETL  job (ETL - Extract, Transform & Load) 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NDY1NTEzMiwxNjA0NTEzNDA3LDg5ND
-gyMTQ4MCwtMTc0MzQ2NDQ2OV19
+eyJoaXN0b3J5IjpbMTQ3MTAyMDI3LDE2MDQ1MTM0MDcsODk0OD
+IxNDgwLC0xNzQzNDY0NDY5XX0=
 -->
